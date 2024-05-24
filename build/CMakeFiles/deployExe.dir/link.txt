@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/deployExe.dir/main.c.o -o deployExe  /usr/lib/x86_64-linux-gnu/libssh.so.4.8.7 
